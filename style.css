@@ -1,0 +1,26 @@
+body{
+ 
+    margin: 0;
+   
+    font-family: Arial, Helvetica, sans-serif;
+   
+    background-color: #cccccf;
+   
+    color: #333;
+   
+  }
+   
+  header,footer{
+      background-color: rgb(136, 0, 255);
+      color: white;
+      text-align: center;
+      padding: 20px;
+  }
+  .biography,.achievements{
+      margin: 30px ;
+   
+      background-color: white;
+      padding: 10px;
+   
+      border-radius: 10px;
+  }
